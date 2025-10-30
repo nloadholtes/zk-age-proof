@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nick Loadholtes",
   "license": "ISC",
-  "description": ""
+  "description": "An experiment with Zero-Knowledge proofs to check age"
 }
